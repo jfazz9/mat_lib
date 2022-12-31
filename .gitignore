@@ -1,2 +1,5 @@
     #ignore the environment
     env
+    .env
+    \env
+    env\.
